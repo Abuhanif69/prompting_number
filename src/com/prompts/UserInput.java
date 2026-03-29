@@ -16,3 +16,14 @@ public class UserInput {
             System.out.println(n + ": is zero");
     }
 }
+
+/*
+ * public class UserInput {
+ * public static void main(String[] args) {
+ * int ctemp, ftemp;
+ * ctemp = 0; // Initialize ctemp with a value
+ * ftemp = 9 * ctemp / 5 + 32;
+ * System.out.println("ftemp = " + ftemp);
+ * }
+ * }
+ */
